@@ -1,0 +1,44 @@
+.box{
+    max-width: 400px;
+    margin: auto;
+    background-color:orange;
+   
+    margin-bottom: 10px;
+}
+.white_box{
+    max-width: 400px;
+    margin: auto;
+    background-color:white;
+   
+    margin-bottom: 10px;
+}
+.div_1{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 5px 20px;
+    color: black;
+    font-weight: bold;
+    
+    
+}
+.div_2 {
+    max-width: 60px;
+background-color: black;
+color: white;
+font-size: 10px;
+font-weight:500;
+margin-left: 20px;
+margin-bottom: -25px;
+}
+.study{
+    padding:5px
+}
+.div_3{
+  
+     display: flex;
+    flex-direction: column;
+    text-align: left;
+    line-height: 2px;
+    padding: 10px 20px 5px 20px;;
+
+}
